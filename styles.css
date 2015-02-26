@@ -1,0 +1,28 @@
+body,table,td {margin:0; padding:0; background-color:white; color:black;}
+#bodyh 
+{
+  margin:0; 
+  border:0; 
+  padding:0px; 
+  background-color:white; 
+  font-size:9pt; 
+  text-color:black; 
+  font-family:Georgia,Arial;
+  background-image:url("images/home_bg.jpg");
+  background-position:right;
+  background-repeat: repeat-y;
+}
+#cname
+{
+	font: normal normal bold 22pt/45px "Georgia";
+	font-weight:bold;
+	color:white;
+	text-align:left;
+}
+#ctagline
+{
+	font: italic normal bold 11pt/24px "Georgia"; 
+	color:white;
+	font-weight:bold;
+	text-align:right;
+}
