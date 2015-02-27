@@ -142,11 +142,13 @@ header .intro-text .skills {
 }
 
 .navbar {
-  
+
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+
+
 
 .navbar a:focus {
       background: #2C3E50;
@@ -445,3 +447,13 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+
+
+.carousel-indicators li {
+  background-color: #999;
+  background-color: rgba(70,70,70,.25);
+}
+
+.carousel-indicators .active {
+  background-color: #444;
+}
